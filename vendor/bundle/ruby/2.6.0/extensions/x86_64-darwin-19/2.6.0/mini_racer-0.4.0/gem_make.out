@@ -1,5 +1,5 @@
 current directory: /Users/oohiramiu/Desktop/workspace/aws_kadai/vendor/bundle/ruby/2.6.0/gems/mini_racer-0.4.0/ext/mini_racer_extension
-/Users/oohiramiu/.rbenv/versions/2.6.5/bin/ruby -I /Users/oohiramiu/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210413-11942-symr4v.rb extconf.rb
+/Users/oohiramiu/.rbenv/versions/2.6.5/bin/ruby -I /Users/oohiramiu/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210414-23654-19m0tfo.rb extconf.rb
 checking for -lpthread... yes
 checking for -lobjc... yes
 creating Makefile
@@ -25,4 +25,4 @@ linking shared-object mini_racer_extension.bundle
 
 current directory: /Users/oohiramiu/Desktop/workspace/aws_kadai/vendor/bundle/ruby/2.6.0/gems/mini_racer-0.4.0/ext/mini_racer_extension
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mini_racer_extension.bundle ./.gem.20210413-11942-q2t1bo
+/usr/bin/install -c -m 0755 mini_racer_extension.bundle ./.gem.20210414-23654-omh5cy

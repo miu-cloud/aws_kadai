@@ -1,5 +1,5 @@
 current directory: /Users/oohiramiu/Desktop/workspace/aws_kadai/vendor/bundle/ruby/2.6.0/gems/ed25519-1.2.4/ext/ed25519_ref10
-/Users/oohiramiu/.rbenv/versions/2.6.5/bin/ruby -I /Users/oohiramiu/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210414-19776-1lxcaoc.rb extconf.rb
+/Users/oohiramiu/.rbenv/versions/2.6.5/bin/ruby -I /Users/oohiramiu/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210414-23654-5vp1yg.rb extconf.rb
 creating Makefile
 
 current directory: /Users/oohiramiu/Desktop/workspace/aws_kadai/vendor/bundle/ruby/2.6.0/gems/ed25519-1.2.4/ext/ed25519_ref10
@@ -30,4 +30,4 @@ linking shared-object ed25519_ref10.bundle
 
 current directory: /Users/oohiramiu/Desktop/workspace/aws_kadai/vendor/bundle/ruby/2.6.0/gems/ed25519-1.2.4/ext/ed25519_ref10
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ed25519_ref10.bundle ./.gem.20210414-19776-1uh95q4
+/usr/bin/install -c -m 0755 ed25519_ref10.bundle ./.gem.20210414-23654-uz2661
